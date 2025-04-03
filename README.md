@@ -1,2 +1,21 @@
 # Weather-app-V2
- This is an enhanced version of the weather application, offering a more visually appealing interface and additional functionality. Users can enter a city name to view the weather forecast, and the app provides detailed weather data such as temperature, pressure, humidity, and wind speed. Additionally, users can reset the data or view their past queries in the history section.
+This version of the weather application introduces a more visually enhanced interface while maintaining core functionality. Users can enter a city name, retrieve weather details, and reset the form for a new search.
+
+Features:
+- Enter City Name – Users can input a city name to fetch weather data.
+- Get Weather Button – Retrieves real-time weather details for the entered city.
+- Reset Button – Clears all input fields and weather data for a fresh search.
+
+Weather Details Displayed:
+
+- Temperature
+
+- Pressure
+
+- Humidity
+
+- Wind Speed
+
+- Cloudiness
+
+- Weather Description
